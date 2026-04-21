@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SRC="/Users/webber/Notes-Work"
-DST="/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库"
+SRC="/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库"
+DST="/Users/webber/Notes-Work"
 LOG_DIR="$SRC/.sync"
 LOG_FILE="$LOG_DIR/sync.log"
 

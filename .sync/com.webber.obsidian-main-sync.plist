@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Label</key>
-    <string>com.webber.notes-work-sync</string>
+    <string>com.webber.obsidian-main-sync</string>
 
     <key>ProgramArguments</key>
     <array>
       <string>/bin/bash</string>
-      <string>/Users/webber/Notes-Work/.sync/sync_notes_to_icloud.sh</string>
+      <string>/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/.sync/sync_icloud_to_noteswork.sh</string>
     </array>
 
     <key>StartInterval</key>
@@ -18,9 +18,9 @@
     <true/>
 
     <key>StandardOutPath</key>
-    <string>/Users/webber/Notes-Work/.sync/launchd.out.log</string>
+    <string>/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/.sync/launchd.out.log</string>
 
     <key>StandardErrorPath</key>
-    <string>/Users/webber/Notes-Work/.sync/launchd.err.log</string>
+    <string>/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/.sync/launchd.err.log</string>
   </dict>
 </plist>
