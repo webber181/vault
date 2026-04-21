@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-PLIST_SRC="/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/.sync/com.webber.obsidian-main-sync.plist"
+PLIST_SRC="/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work/.sync/com.webber.obsidian-main-sync.plist"
 LAUNCH_AGENTS="$HOME/Library/LaunchAgents"
 PLIST_DST="$LAUNCH_AGENTS/com.webber.obsidian-main-sync.plist"
 
@@ -14,4 +14,4 @@ if command -v launchctl >/dev/null 2>&1; then
 fi
 
 echo "Installed: $PLIST_DST"
-echo "Script: /Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/.sync/sync_icloud_to_noteswork.sh"
+echo "Script: /Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work/.sync/sync_icloud_to_noteswork.sh"

@@ -18,16 +18,16 @@ updated: 2026-04-21
 2. **Markdown 为主**：所有内容都落到 `.md` 文件。
 3. **模板驱动**：日记、文章、概念、项目尽量用模板创建。
 4. **低摩擦写作**：先记下来，再整理。
-5. **单向镜像**：Mac 镜像目录只做辅助，不再作为主库。
+5. **主库唯一**：iCloud 主库是唯一真源，不再维护额外本地副本。
 
 ## 2. 当前目录与路径
 
 ### 2.1 服务器端 vault
-- 路径：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
+- 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - 用途：自动化脚本写入、日报生成、知识整理、Git 同步
 
 ### 2.2 本地 Mac / iPhone 共享 vault
-- Canonical 路径：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
+- Canonical 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - 要求：Mac 和 iPhone 打开**同一个 vault**，不要再建第二个仓库
 
 ### 2.3 关系说明
@@ -161,7 +161,7 @@ updated: 2026-04-21
 ## 10. 常见操作
 
 ### 打开 vault
-- Mac 端直接打开 `Webber知识库`
+- Mac 端直接打开 `Notes-Work`
 - iPhone 端选择同一个 iCloud vault
 
 ### 新建一篇文章笔记

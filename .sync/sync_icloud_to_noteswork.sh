@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SRC="/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库"
+SRC="/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work"
 DST="/Users/webber/Notes-Work"
 LOG_DIR="$SRC/.sync"
 LOG_FILE="$LOG_DIR/sync.log"
