@@ -56,6 +56,6 @@
 
 ## 🔄 同步
 
-- 服务器 vault：`/home/debian/vault`
-- 本地 Mac / iPhone（iCloud）：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
+- 主 vault（iCloud）：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
+- Mac 镜像：`/Users/webber/Notes-Work`
 - GitHub 仓库：`https://github.com/webber181/vault`

@@ -6,4 +6,4 @@
 ## [2026-04-20] create | Wiki initialized
 - Domain: AI/ML 研究、产品与行业动态
 - Structure: SCHEMA.md, index.md, log.md + raw/{articles,papers,assets} + entities/ + concepts/ + comparisons/ + queries/
-- Config: WIKI_PATH=/home/debian/vault/LLM知识库
+- Config: WIKI_PATH=/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库/LLM知识库

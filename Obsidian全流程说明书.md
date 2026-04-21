@@ -14,18 +14,16 @@ updated: 2026-04-21
 
 ## 1. 总体原则
 
-1. **一个 vault 统一管理**：Mac、iPhone、服务器尽量使用同一套库。
+1. **iCloud 作为主库**：Mac、iPhone 都围绕同一套 iCloud vault。
 2. **Markdown 为主**：所有内容都落到 `.md` 文件。
 3. **模板驱动**：日记、文章、概念、项目尽量用模板创建。
 4. **低摩擦写作**：先记下来，再整理。
-5. **双层同步**：
-   - iCloud 负责设备间同步
-   - GitHub / Obsidian Git 负责版本备份与服务器协同
+5. **单向镜像**：Mac 镜像目录只做辅助，不再作为主库。
 
 ## 2. 当前目录与路径
 
 ### 2.1 服务器端 vault
-- 路径：`/home/debian/vault`
+- 路径：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
 - 用途：自动化脚本写入、日报生成、知识整理、Git 同步
 
 ### 2.2 本地 Mac / iPhone 共享 vault
