@@ -6,15 +6,16 @@
 
 | 目录 | 用途 |
 |------|------|
-| `_templates/` | Templater 模板（daily / article / concept / project） |
-| `100-Daily/` | Zettelkasten 日记 |
-| `200-Concepts/` | 原子化概念卡片 |
-| `300-Articles/` | 读过的文章摘要 |
-| `400-Projects/` | 项目级笔记 |
-| `500-Area/` | 领域研究（AI / 量化 / 投资） |
-| `LLM Wiki/` | AI 知识沉淀（concepts / entities / papers / raw） |
-| `AI NEWS HUB/` | 资讯归档 |
-| `Daily Reports/` | 每日报告（ Hermes 自动生成） |
+| `模板/` | Templater 模板（daily / article / concept / project） |
+| `100-日记/` | 卡片盒 日记 |
+| `200-概念/` | 原子化概念卡片 |
+| `300-文章/` | 读过的文章摘要 |
+| `400-项目/` | 项目级笔记 |
+| `500-领域/` | 领域研究（AI / 量化 / 投资） |
+| `LLM知识库/` | AI 知识沉淀（concepts / entities / papers / raw） |
+| `AI新闻中心/` | 资讯归档 |
+| `每日报告/` | 每日报告（ Hermes 自动生成） |
+| `Obsidian全流程说明书.md` | Obsidian 全流程说明书 |
 
 ## 🔧 插件配置
 
@@ -27,7 +28,7 @@
 
 ### daily-note.md
 - `Ctrl+1` → 今日日记，自动填充日期/星期
-- 文件保存到 `100-Daily/YYYY-MM-DD.md`
+- 文件保存到 `100-日记/YYYY-MM-DD.md`
 
 ### article-note.md
 - `Ctrl+2` → 文章笔记，填写来源/作者/链接/摘要
@@ -48,13 +49,13 @@
 
 | 命令 | 模板 | 保存位置 |
 |------|------|----------|
-| `日记` | `daily-note.md` | `100-Daily/` |
-| `文章` | `article-note.md` | `300-Articles/` |
-| `概念` | `concept-note.md` | `200-Concepts/` |
-| `项目` | `project-note.md` | `400-Projects/` |
+| `日记` | `daily-note.md` | `100-日记/` |
+| `文章` | `article-note.md` | `300-文章/` |
+| `概念` | `concept-note.md` | `200-概念/` |
+| `项目` | `project-note.md` | `400-项目/` |
 
 ## 🔄 同步
 
 - 服务器 vault：`/home/debian/vault`
-- 本地 Mac（iCloud）：`~/Library/Mobile Documents/com~apple~CloudDocs/Webber知识库`
+- 本地 Mac / iPhone（iCloud）：`/Users/webber/Library/Mobile Documents/iCloud~md~obsidian/Documents/Webber知识库`
 - GitHub 仓库：`https://github.com/webber181/vault`
