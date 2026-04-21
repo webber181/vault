@@ -1,0 +1,17 @@
+---
+title: "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy - CNBC"
+date: 2026-04-21
+source: AutoCLI Google News
+url: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWZwaWxlNGMwcDJkTXZMd2RaQk5LUWs4bmJPSzI2ZC1kR1czelQ1enZYNldVUk9vXzBTZDdzazlCNDJRVVNFd2RvekRqblczOEJ6dFZ2VW95M01sa3pLWkgzdFZuNzMxWkIzalVCWVA2Y0RsaFM2ZVhtcXItRHJfSWwwNy1zNmxCNEVSUTZPSmhzOUtrSEJ5c25lRWVJTE9kSExSd01WZTFmZ9IBrwFBVV95cUxNcjh5NHd4cUoyV2FqTWl5RUlnUW8xMkhuMGxaTWZZQnZMWW15X2t4NGJYNElaaGxRLVZSZkZ3MXVKZXZVcTNCcmpfbEp6NUk3OVBmbGRkQkw2NDRaTENENm8wOGRTNEVhQWxZLXZDM1ZrYkUtRGNSVENSVlBEQmJFcWVNeU1nOFZxNWF4djAwU1lBNW1IZDJfRmp0VEdkZFk5UVVIRVB4S0pteWM2WEdr?oc=5
+tags: [news, daily-capture]
+---
+
+# Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy - CNBC
+
+**Source:** [Link](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWZwaWxlNGMwcDJkTXZMd2RaQk5LUWs4bmJPSzI2ZC1kR1czelQ1enZYNldVUk9vXzBTZDdzazlCNDJRVVNFd2RvekRqblczOEJ6dFZ2VW95M01sa3pLWkgzdFZuNzMxWkIzalVCWVA2Y0RsaFM2ZVhtcXItRHJfSWwwNy1zNmxCNEVSUTZPSmhzOUtrSEJ5c25lRWVJTE9kSExSd01WZTFmZ9IBrwFBVV95cUxNcjh5NHd4cUoyV2FqTWl5RUlnUW8xMkhuMGxaTWZZQnZMWW15X2t4NGJYNElaaGxRLVZSZkZ3MXVKZXZVcTNCcmpfbEp6NUk3OVBmbGRkQkw2NDRaTENENm8wOGRTNEVhQWxZLXZDM1ZrYkUtRGNSVENSVlBEQmJFcWVNeU1nOFZxNWF4djAwU1lBNW1IZDJfRmp0VEdkZFk5UVVIRVB4S0pteWM2WEdr?oc=5)
+
+**Captured:** 2026-04-21
+
+## Summary
+*Auto-captured via AutoCLI news feed — needs human review and wiki compilation.*
+
