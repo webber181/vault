@@ -23,11 +23,11 @@ updated: 2026-04-21
 ## 2. 当前目录与路径
 
 ### 2.1 服务器端 vault
-- 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
-- 用途：自动化脚本写入、日报生成、知识整理、Git 同步
+- 路径：服务器本地路径（示例：`/home/debian/vault`）
+- 用途：自动化脚本写入、日报生成、知识整理、Git push
 
 ### 2.2 本地 Mac / iPhone 共享 vault
-- Canonical 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
+- Canonical 路径：`/Users/webber/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - 要求：Mac 和 iPhone 打开**同一个 vault**，不要再建第二个仓库
 
 ### 2.3 关系说明
@@ -45,7 +45,8 @@ updated: 2026-04-21
 - `500-领域/`：长期领域沉淀
 - `LLM知识库/`：AI / 研究资料沉淀
 - `AI新闻中心/`：资讯归档
-- `每日报告/`：自动化日报
+- `Daily Reports/`：自动化日报（当前主目录）
+- `每日报告/`：历史日报目录（兼容保留）
 
 ## 4. 核心插件
 
@@ -59,7 +60,7 @@ updated: 2026-04-21
 用途：查询、聚合、统计笔记。
 
 ### 4.4 Obsidian Git
-用途：自动 pull / push / backup，降低手工同步成本。
+用途：自动 pull + 自动备份提交，push 仍手动触发。
 
 ## 5. 日常使用流程
 
@@ -140,7 +141,7 @@ updated: 2026-04-21
 
 ### 8.3 推荐顺序
 1. 本地编辑
-2. Obsidian Git 自动提交
+2. Obsidian Git 自动备份提交
 3. GitHub 远端备份
 4. 服务器端定时任务拉取/写入
 5. iCloud 再同步到移动端
@@ -174,7 +175,7 @@ updated: 2026-04-21
 - 放进 `200-概念/`
 
 ### 查看自动日报
-- 打开 `每日报告/`
+- 打开 `Daily Reports/`
 - 结合当天日记一起看
 
 ## 11. 常见问题
@@ -197,7 +198,8 @@ updated: 2026-04-21
 
 ### 11.3 目录里找不到新文件
 检查：
-- 文件是不是被写到了服务器 vault
+- 文件是不是已经写入 GitHub 对应分支
+- 文件是不是写到了 `Daily Reports/` 而不是 `每日报告/`
 - 本地是否还没同步下来
 - Obsidian 是否缓存了旧状态
 

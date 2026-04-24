@@ -14,7 +14,8 @@
 | `500-领域/` | 领域研究（AI / 量化 / 投资） |
 | `LLM知识库/` | AI 知识沉淀（concepts / entities / papers / raw） |
 | `AI新闻中心/` | 资讯归档 |
-| `每日报告/` | 每日报告（ Hermes 自动生成） |
+| `Daily Reports/` | 每日报告（Hermes 自动生成，当前主目录） |
+| `每日报告/` | 历史日报目录（兼容保留） |
 | `Obsidian全流程说明书.md` | Obsidian 全流程说明书 |
 
 ## 🔧 插件配置
@@ -22,7 +23,7 @@
 - **Templater**：模板引擎，创建笔记时自动填充日期/分类
 - **QuickAdd**：快捷键创建特定类型笔记
 - **Dataview**：查询统计笔记
-- **Obsidian Git**：每 5 分钟自动 push/pull
+- **Obsidian Git**：每 5 分钟自动 pull + 自动备份提交（push 按需手动执行）
 
 ## 📝 模板说明
 
@@ -56,5 +57,5 @@
 
 ## 🔄 同步
 
-- 主库（iCloud）：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
+- 主库（iCloud）：`/Users/webber/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - GitHub 仓库：`https://github.com/webber181/vault`

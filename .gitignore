@@ -1,4 +1,5 @@
 .obsidian/
+.obsidian.json
 ._*
 .DS_Store
 Thumbs.db
