@@ -72,5 +72,5 @@
 
 ## 🔄 同步
 
-- 主库（iCloud）：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
+- 主库（iCloud）：`/Users/webber/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - GitHub 仓库：`https://github.com/webber181/vault`

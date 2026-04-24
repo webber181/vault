@@ -23,11 +23,11 @@ updated: 2026-04-21
 ## 2. 当前目录与路径
 
 ### 2.1 服务器端 vault
-- 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
+- 路径：`/Users/webber/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - 用途：自动化脚本写入、日报生成、知识整理、Git 同步
 
 ### 2.2 本地 Mac / iPhone 共享 vault
-- Canonical 路径：`/Users/chenweisheng/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
+- Canonical 路径：`/Users/webber/Library/Mobile Documents/com~apple~CloudDocs/Notes-Work`
 - 要求：Mac 和 iPhone 打开**同一个 vault**，不要再建第二个仓库
 
 ### 2.3 关系说明
