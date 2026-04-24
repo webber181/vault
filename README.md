@@ -39,6 +39,18 @@
 ### project-note.md
 - `Ctrl+4` → 项目笔记，目标/里程碑/待办
 
+### tg-finance-daily.md
+- TG 财经整点摘要，归档到 `投资/`
+
+### tg-finance-item.md
+- 单条资讯卡，保留来源、结论、交易含义
+
+### tg-finance-decision.md
+- 资讯触发的交易决策记录
+
+### tg-theme-note.md
+- 板块专题页，做持续跟踪
+
 ## 🔗 互链原则
 
 - 每个笔记一个核心观点（原子化）
@@ -53,6 +65,10 @@
 | `文章` | `article-note.md` | `300-文章/` |
 | `概念` | `concept-note.md` | `200-概念/` |
 | `项目` | `project-note.md` | `400-项目/` |
+| `财经日报` | `tg-finance-daily.md` | `投资/` |
+| `资讯卡` | `tg-finance-item.md` | `投资/` |
+| `决策记录` | `tg-finance-decision.md` | `投资/` |
+| `板块专题` | `tg-theme-note.md` | `投资/` |
 
 ## 🔄 同步
 
